@@ -1,7 +1,16 @@
+## To Run this notebook:
+**Prerequisites:** You'll need to set up a virtual environment first using vim or Conda, and install the following packages: 
+jupyter-notebook, pandas, numpy, scikit-learn, matplotlib.pyplot, seaborn and pyplot.
+Alternatively, you can import the notebook into Google Colab and make sure you have the above packages installed on your machine.
+
+Change the training data and test data paths in the code to "<PROJECT PATH ON YOUR COMPUTER>/House Price Prediction/data".
+
+Open Exc4_Tomer&Erez.ipynb notebook and run all cells. Some cells might take a few moments to load, as data training occurs.
+
 # Ames-House-Price-Prediction
 **Project Overview**: This project addresses the challenge of predicting house prices in Ames, Iowa, using multiple regression algorithms and advanced machine learning techniques. The goal was to build a robust model capable of accurately estimating property values, which involved a comprehensive process of data preprocessing, feature engineering, and model optimization. The project employed six different regression models and analyzed their performance using metrics such as Root Mean Squared Error (RMSE) and R² scores.
 
-### Key Highlights and Academic Value:
+### Key Highlights:
 #### Data Cleansing Process:
 The project begins with a meticulous data cleansing phase, addressing common data quality issues that could negatively impact model performance. Given the nature of real-world datasets, many attributes in the house price dataset were incomplete, containing missing values or inconsistencies that needed to be resolved.
 #### Data Analysis: 
