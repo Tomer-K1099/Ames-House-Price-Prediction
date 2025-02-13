@@ -3,7 +3,7 @@
 jupyter-notebook, pandas, numpy, scikit-learn, matplotlib.pyplot, seaborn and pyplot.
 Alternatively, you can import the notebook into Google Colab and make sure you have the above packages installed on your machine.
 
-Change the training data and test data paths in the code to "<PROJECT PATH ON YOUR COMPUTER>/House Price Prediction/data".
+Change the training data and test data paths in the code to "<PROJECT-PATH-ON-YOUR-COMPUTER>/House Price Prediction/data".
 
 Open Exc4_Tomer&Erez.ipynb notebook and run all cells. Some cells might take a few moments to load, as data training occurs.
 
